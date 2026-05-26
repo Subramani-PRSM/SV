@@ -1580,12 +1580,12 @@ a {
 }
 
 .bride-img {
-  background-image: url('assets/1.jpg');
+  background-image: url('assets/2.jpg');
   background-position: center left;
 }
 
 .groom-img {
-  background-image: url('assets/2.jpg');
+  background-image: url('assets/1.jpg');
   background-position: center right;
 }
 
