@@ -2353,7 +2353,7 @@ a {
   }
 
   .loader-names {
-    font-size: clamp(1.3rem, 5vw, 2rem);
+    font-size: clamp(1.3rem, 4vw, 2rem);
   }
 
   .loader-invocation {
@@ -2732,7 +2732,7 @@ a {
   }
 
   .ecn-title {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
   }
 
   .ecn-date {
